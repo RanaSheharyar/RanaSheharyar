@@ -5,8 +5,8 @@
 👋 Hi there! Welcome to my GitHub profile. I'm Rana Sheharyar, a seasoned full-stack data scientist and data engineer with over 5 years of professional experience. I'm passionate about leveraging cutting-edge technologies in data science and engineering to drive innovation and solve complex problems.
 
 ## About Me
-
-- 💼 Co-Founder & Managing Director at AFverse, an artificial intelligence solutions firm.
+- 💼 Chief Scientist at CYBRNODE, a Full Stack data and artificial intelligence solutions firm.
+- 💼 Co-founder & Managing Director at AFverse, an artificial intelligence solutions firm.
 - 🚗 Founder of Ridely, an AI-driven ridesharing platform focused on leveraging big data for urban optimization.
 - 🌱 Advocate for human-centered technology, data dignity, digital justice, and AI ethics.
 
